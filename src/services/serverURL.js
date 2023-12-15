@@ -1,0 +1,1 @@
+export const serverURL ="https://videoappserver-ygon.onrender.com"
